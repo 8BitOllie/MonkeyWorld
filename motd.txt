@@ -1,5 +1,3 @@
 MOTD:
-Autumn and spring are here! On the Northside, relax in the new autumn grass! On the Southside, run around smelling flowers! 3 new cosmetics have been added to the store. - Spring Leaf
-- Autumn Leaf
-- Gold Leaf
-Purchase them in the city! Beware as something big is on the horizon...
+Easter is here and.. the eggs.. are.. too? Wait, why are there eggs everywhere??? Search around the world and help get rid of these eggs!
+Changes: Easter egg hunt, Moon Map, Moderators added.
